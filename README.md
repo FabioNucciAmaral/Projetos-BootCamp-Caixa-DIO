@@ -14,3 +14,6 @@ Projetos:
 - Criando um Podcast com IAs Generativas
 
 - Como organizar sua vida Financeira com Planilhas Inteligentes e IA
+  Pasta de Tranalho do Excel criada de acordo com a aula
+    "Aula Planilha Inteligente.xlsx"
+
